@@ -14,9 +14,11 @@ function updateProfileInfo(profileData) {
 
     const profilePhone = document.getElementById('profile.phone');
     profilePhone.textContent = profileData.phone;
+    profilePhone.href = 'tel:${profileData.phone}';
 
     const profileEmail = document.getElementById('profile.email');
     profileEmail.textContent = profileData.email;
+    profileEmail.href = 'mailto:${profileData.email}';
 }
 
 

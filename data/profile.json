@@ -1,6 +1,6 @@
 {
   "name": "Breno H C Lira",
-  "photo": "https://avatars.githubusercontent.com/u/89813532?v=4",
+  "photo": "https://avatars.githubusercontent.com/u/89813532?s=400&u=0d850bf1a41c9fc79b63bfbb6c994635c4684950&v=4",
   "job": "Programador Jr, Front-End e Back-End",
   "location": "Recife - PE",
   "phone": "(81) 99706-1954",
@@ -21,9 +21,12 @@
       }
     ],
     "softSkills": [
-      "Comunicação",
       "Empatia",
-      "Poder de Sedução Imcomparável"
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização",
+      "Clean-code"
     ]
   },
   "idiomas": [

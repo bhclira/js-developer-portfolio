@@ -12,7 +12,7 @@ async function fetchProfileData() {
         const data = await response.json();
         return data;
     } catch (error) {
-        console.error('There has been a problem with your fetch operation:', error);
+        console.error('Houve um problema com a operação de fetch:', error);
     }
 }
 

@@ -21,11 +21,20 @@ function updateProfileInfo(profileData) {
     profileEmail.href = 'mailto:${profileData.email}';
 }
 
+function updateSkills(profileData) {
+    const skillList = document.getElementById('profile.skills.softSkills');
+    profileData.skills.softSkills.forEach(skill => {
+        const skillElement = document.createElement('li');
+        skillElement.textContent = skill;
+        skillList.appendChild(skillElement);
+    })
+}
 
 (async () => {
 
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
+    updateSkills(profileData)
 
 })();
 

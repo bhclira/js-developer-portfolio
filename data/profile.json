@@ -37,19 +37,10 @@
       "Clean-code"
     ]
   },
-  "idiomas": [
-    {
-      "nome": "Português",
-      "nivel": "Nativo"
-    },
-    {
-      "nome": "Inglês",
-      "nivel": "Intermediário"
-    },
-    {
-      "nome": "Espanhol",
-      "nivel": "Básico"
-    }
+  "languages": [
+    "Português - BR",
+    "Inglês (Senac Intermedate English)",
+    "Francês (Aliança Francesa Basic)"
   ],
   "educacao": [
     {

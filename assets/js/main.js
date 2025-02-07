@@ -45,12 +45,12 @@ function updatePortifolio(profileData) {
     portifolio.innerHTML = profileData.portifolio.map(portifolio => `<li>${portifolio}</li>`).join('')
 }
 
-function updatePortfolio (profileData) {
+function updatePortfolio(profileData) {
     const portfolio = document.getElementById('profile.portfolio')
     portfolio.innerHTML = profileData.portfolio.map(project => {
         return `
             <li>
-                <h3>${project.github ? 'class="github"' : ''}>${project.name}</h3>
+                <h3 ${project.github ? 'class="github"' : ''}>${project.name}</h3>
                 <a href="${project.url}" target="_blank">${project.url}</a>
             </li>
         `
@@ -64,7 +64,7 @@ function updatePortfolio (profileData) {
     updateSoftSkills(profileData)
     updateHardSkills(profileData)
     updateLanguages(profileData)
-    updatePortifolio(profileData)
+    updatePortfolio(profileData)
 
 })();
 

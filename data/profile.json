@@ -45,15 +45,15 @@
   "portfolio": [
     {
       "name": "Pokedex - Curso ministrado na Dio para a criação de uma pokedex com HTML, CSS e JS",
-      "gitHub": "https://github.com/bhclira/pokedex",
+      "url": "https://github.com/bhclira/pokedex",
       "certificado": "https://www.dio.me/certificate/34F1FBA1",
-      "git": true
+      "github": true
     },
     {
       "nome": "Página de Portfolio - Curso ministrado na Dio para a criação de uma pokedex com HTML, CSS e JS",
-      "gitHub": "https://github.com/bhclira/js-developer-portfolio/tree/projeto-base",
+      "url": "https://github.com/bhclira/js-developer-portfolio/tree/projeto-base",
       "certificado": "https://www.dio.me/certificate/9A5090FC",
-      "git": true
+      "github": true
     }
   ],
   "experiencias": [

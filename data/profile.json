@@ -56,15 +56,12 @@
       "github": true
     }
   ],
-  "experiencias": [
+  "professionalExperience": [
     {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
-      }
+      "name": "Personal Trainer em transição de carreira",
+      "description": "Licienciado Pleno em Educação Física pela UPE, com experiência em treinamento funcional, musculação, Pilates e Yoga. Atualmente em transição de carreira para a área de tecnologia.",
+      "instituicao": "",
+      "period": "06/2007 - Atualmente"
     }
   ]
 }

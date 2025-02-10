@@ -44,18 +44,31 @@
   ],
   "portfolio": [
     {
+      "name": "Meu Portfolio HTML, CSS e JS consumo de API do Github",
+      "url": "https://github.com/bhclira/js-developer-portfolio/tree/projeto-base",
+      "certificado": "https://www.dio.me/certificate/9A5090FC",
+      "github": true
+    },
+    {
       "name": "Pokedex - Curso ministrado na Dio para a criação de uma pokedex com HTML, CSS e JS",
       "url": "https://github.com/bhclira/pokedex",
       "certificado": "https://www.dio.me/certificate/34F1FBA1",
       "github": true
     },
     {
-      "name": "Página de Portfolio HTML, CSS e JS consumo de API do Github",
-      "url": "https://github.com/bhclira/js-developer-portfolio/tree/projeto-base",
-      "certificado": "https://www.dio.me/certificate/9A5090FC",
+      "name": "Aluramid - Este repositório contém um projeto de um conversor de moedas simples feito com HTML, CSS e JS",
+      "url": "https://github.com/bhclira/conversor_moedas",
+      "certificado": "https://www.dio.me/certificate/34F1FBA1",
+      "github": true
+    },
+    {
+      "name": "Alurafone - Este repositório contém um teclado numérico similar ao de um telefone. Com esta aplicação, você pode adicionar qualquer número de telefone em um visor.",
+      "url": "https://github.com/bhclira/alurafone",
+      "certificado": "https://www.dio.me/certificate/34F1FBA1",
       "github": true
     }
   ],
+  
   "professionalExperience": [
     {
       "name": "Personal Trainer em transição de carreira",

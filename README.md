@@ -2,10 +2,7 @@
 
 <p>Tela de preview do App</p>
 
-<video width="600" controls>
-  <source src="assets/img/portfolio-breno.mp4" type="video/mp4">
-  Seu navegador não suporta a tag de vídeo.
-</video>
+![Preview](assets/img/preview.png)
 
 ## Descrição:<br>
 Este projeto é um Front-End que consome API de um arquivo json hospedado num sevidor web. Ele implementa um deploy dos dados de maneira que você precisa apenas atualizar o json e commitar as alterações desejadas, utilizando-se do GitHub Pages para sua hospedagem.<br><br>

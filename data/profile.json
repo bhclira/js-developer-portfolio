@@ -78,6 +78,12 @@
       "url": "https://github.com/bhclira/desafio-iphone-java/tree/main/iphone-console",
       "certificado": "https://www.dio.me/certificate/34F1FBA1",
       "github": true
+    },
+    {
+      "name": "JAVA POO Contas Bancárias - Neste projeto abstraí um programa simulando uma Agência Bancária em Java cujas funcionalidades englobam saques, depósitos e impressão de extratos de contas criadas vinculadas a um cliente através de Interfaces e heranças.",
+      "url": "https://github.com/bhclira/desafio-banco/tree/desafio-breno/desafio-banco",
+      "certificado": "https://www.dio.me/certificate/34F1FBA1",
+      "github": true
     }
   ],
   

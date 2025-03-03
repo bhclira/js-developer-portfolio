@@ -86,6 +86,12 @@
       "github": true
     },
     {
+      "name": "Java Maven Project - Criei um projeto Maven em Java onde aprendi do zero a instalar e configurar dependências e automatizar o processo de build e deploy de aplicações Java.",
+      "url": "https://github.com/bhclira/java-maven-project",
+      "certificado": "https://www.dio.me/certificate/34F1FBA1",
+      "github": true
+    },
+    {
       "name": "IA - Criação de E-book a partir da roteirização e sumarização de um conteúdo com auxilio da IA Generativa. Treinamento e mudulação dos resultados até conseguir construir um E-book com textos e imagens feitos por IA. Criei também um modelo de IA simulando a interação entre dois agentes de IA em um formato de Podcast utilizando a o E-book como insumo.",
       "url": "https://github.com/bhclira/lab-natty-or-not",
       "certificado": "https://www.dio.me/certificate/34F1FBA1",

@@ -80,13 +80,13 @@
       "github": true
     },
     {
-      "name": "JAVA POO Contas Bancárias - Este projeto foi desenvolvido em Java como parte do desafio do Curso Java Essential** da Digital Innovation One (DIO). O objetivo foi criar uma simulação de uma máquina de pet shop, permitindo realizar operações como dar banho em pets, gerenciar recursos (água e shampoo) e até limpar a máquina. O projeto foi desenvolvido utilizando os princípios de Programação Orientada a Objetos (POO), incluindo herança, encapsulamento e polimorfismo.",
+      "name": "JAVA POO PetShopMachine - Este projeto foi desenvolvido em Java como parte do desafio do Curso Java Essentia da Digital Innovation One (DIO). O objetivo foi criar uma simulação de uma máquina de pet shop, permitindo realizar operações como dar banho em pets, gerenciar recursos (água e shampoo) e até limpar a máquina. O projeto foi desenvolvido utilizando os princípios de Programação Orientada a Objetos (POO), incluindo herança, encapsulamento e polimorfismo. Uso de Switch-Case e Do-While para formar um menu interativo ",
       "url": "https://github.com/bhclira/desafio-banco/tree/desafio-breno/desafio-banco",
       "certificado": "https://www.dio.me/certificate/34F1FBA1",
       "github": true
     },
     {
-      "name": "JAVA POO PetShopMachine - Neste projeto abstraí um programa simulando uma Agência Bancária em Java cujas funcionalidades englobam saques, depósitos e impressão de extratos de contas criadas vinculadas a um cliente através de Interfaces e heranças.",
+      "name": "JAVA POO ContaBancaria - Neste projeto abstraí um programa simulando uma Agência Bancária em Java cujas funcionalidades englobam saques, depósitos e impressão de extratos de contas criadas vinculadas a um cliente através de Interfaces e heranças.",
       "url": "https://github.com/bhclira/desafio-banco/tree/desafio-breno/desafio-banco",
       "certificado": "https://www.dio.me/certificate/34F1FBA1",
       "github": true
